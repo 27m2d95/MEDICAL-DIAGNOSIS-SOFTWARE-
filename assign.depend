@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1474573502 source:c:\users\ahmad\desktop\assign\main.cpp
+	<iostream>
+	<ostream>
+	<vector>
+	<string.h>
+	<cstring>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<direct.h>
+	<process.h>
+	<windows.h>
+	<map>
+	<utility>
+
